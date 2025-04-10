@@ -14,7 +14,18 @@
 </p>
 
 ---
+---
 
+🚀 Passionate about building scalable web apps, integrating AI into user experiences, and delivering clean, cloud-native solutions.
+
+- 🔭 I’m currently working on **Streamify** – a smart video streaming app with sentiment analysis and engagement graphs  
+- 🧠 Exploring **GraphQL**, **Docker**, and **Kubernetes**  
+- 🎓 Master’s in Computer Science @ UMass Dartmouth  
+- 💬 Ask me about **.NET Core, React, MongoDB, Azure, AWS**  
+- 📫 Reach me: `pathakshishir123@gmail.com`  
+- ⚡ Fun fact: I’m building a YouTube-style engagement graph for my app!
+
+---
 ---
 ### 🏗️ Featured Projects
 
@@ -37,18 +48,7 @@
 - **🔹 GitHub Repo Cloner**  
   A Python-based script using Pandas, Matplotlib, and Scapy for network & repo analysis, with visualizations via Seaborn and Wireshark.  
   ⏩ [GitHub Repo](https://github.com)
----
 
-🚀 Passionate about building scalable web apps, integrating AI into user experiences, and delivering clean, cloud-native solutions.
-
-- 🔭 I’m currently working on **Streamify** – a smart video streaming app with sentiment analysis and engagement graphs  
-- 🧠 Exploring **GraphQL**, **Docker**, and **Kubernetes**  
-- 🎓 Master’s in Computer Science @ UMass Dartmouth  
-- 💬 Ask me about **.NET Core, React, MongoDB, Azure, AWS**  
-- 📫 Reach me: `pathakshishir123@gmail.com`  
-- ⚡ Fun fact: I’m building a YouTube-style engagement graph for my app!
-
----
 
 ### 🧰 Tech Stack & Tools
 <p align="left">

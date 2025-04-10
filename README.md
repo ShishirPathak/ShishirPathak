@@ -56,9 +56,25 @@
 
 ### 🏗️ Featured Projects
 
-- **🔹 UMassD Schedule Assistant** – Voice & text-based academic query tool using Google Gemini API + React  
-- **🔹 Streamify** – A full-stack video app with comment analysis, engagement graphs & smart analytics  
-- **🔹 WorkTrack** – A productivity tracker with real-time metrics & dashboarding  
+- **🔹 UMassD Schedule Assistant**  
+  React + TypeScript app using Google Gemini AI to process over 100 daily academic schedule queries via voice/text inputs.  
+  ⏩ [Live Demo](https://umassd-class-clock.vercel.app)
+
+- **🔹 Olympic Games Data Visualization**  
+  An interactive D3.js project showing medal trends, country insights, and more.  
+  ⏩ [Live Demo](https://data-visualization-final-project.vercel.app)
+
+- **🔹 Interactive Chatbot**  
+  A conversational assistant built using Node.js and the OpenAI API for smart responses.  
+  ⏩ [GitHub Repo](https://github.com)
+
+- **🔹 Network Analyzer**  
+  A powerful tool using React, Tailwind CSS, and Express.js to inspect and visualize network traffic.  
+  ⏩ [GitHub Repo](https://github.com)
+
+- **🔹 GitHub Repo Cloner**  
+  A Python-based script using Pandas, Matplotlib, and Scapy for network & repo analysis, with visualizations via Seaborn and Wireshark.  
+  ⏩ [GitHub Repo](https://github.com)
 
 ---
 

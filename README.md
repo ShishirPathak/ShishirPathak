@@ -1,23 +1,32 @@
 <h1 align="center">Hi 👋, I'm Shishir Pathak</h1>
 <h3 align="center">Software Engineer | Full Stack Developer | AI & Cloud Enthusiast</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShishirPathak&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
 ---
 
 🚀 Passionate about building scalable web apps, integrating AI into user experiences, and delivering clean, cloud-native solutions.
 
-- 🔭 I’m currently working on **Streamify** – a smart video streaming app with sentiment analysis and engagement graphs
-- 🧠 Exploring **GraphQL**, **Docker**, and **Kubernetes**
-- 🎓 Master’s in Computer Science @ UMass Dartmouth
-- 💬 Ask me about **.NET Core, React, MongoDB, Azure, AWS**
-- 📫 Reach me: `shishirkumar101@gmail.com`
+- 🔭 I’m currently working on **Streamify** – a smart video streaming app with sentiment analysis and engagement graphs  
+- 🧠 Exploring **GraphQL**, **Docker**, and **Kubernetes**  
+- 🎓 Master’s in Computer Science @ UMass Dartmouth  
+- 💬 Ask me about **.NET Core, React, MongoDB, Azure, AWS**  
+- 📫 Reach me: `pathakshishir123@gmail.com`  
 - ⚡ Fun fact: I’m building a YouTube-style engagement graph for my app!
 
 ---
 
-### 💻 Tech Stack & Tools
+### 🧰 Tech Stack & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dotnet,react,js,ts,py,java,mongodb,mysql,azure,aws,docker,kubernetes,git,github,vscode" />
 </p>
+
+---
+
+### 🔗 Portfolio
+[![Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-shishirpathaks-projects.vercel.app)
 
 ---
 
@@ -29,6 +38,18 @@
 ### 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ShishirPathak&theme=tokyonight" />
+</p>
+
+### 🌍 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShishirPathak&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🧠 Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---

@@ -29,7 +29,14 @@
 [![Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-shishirpathaks-projects.vercel.app)
 
 ---
+---
 
+### 🧠 Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShishirPathak&show_icons=true&theme=tokyonight" />
@@ -45,14 +52,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShishirPathak&layout=compact&theme=tokyonight" />
 </p>
 
----
 
-### 🧠 Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
 
 ### 🏗️ Featured Projects
 

@@ -29,6 +29,16 @@
 ---
 ### 🏗️ Featured Projects
 
+- **🔹 Streamify – Video Streaming Platform with Engagement Analytics**  
+  Full-stack platform with secure video uploads and detailed viewer interaction insights (rewatch heatmaps, drop-offs, skip detection).  
+  🧩 React + Node.js + MongoDB + Redis + AWS S3 + Firebase + Docker + EC2  
+  ⏩ [GitHub Repo](https://github.com/ShishirPathak/Streamify)
+
+- **🔹 Performance Evaluation of NLP-Driven ML Models for SMS Spam Classification**  
+  NLP-based spam detection using TF-IDF, feature engineering, and ML classifiers with SMOTE for class imbalance. Achieved high recall and precision.  
+  🧠 Python + Scikit-learn + Pandas + NLP + TF-IDF + SMOTE  
+  ⏩ [GitHub Repo](https://github.com/ShishirPathak/nlp-sms-spam-classifier)
+
 - **🔹 UMassD Schedule Assistant**  
   React + TypeScript app using Google Gemini AI to process over 100 daily academic schedule queries via voice/text inputs.  
   ⏩ [Live Demo](https://umassd-class-clock.vercel.app)
@@ -48,6 +58,7 @@
 - **🔹 GitHub Repo Cloner**  
   A Python-based script using Pandas, Matplotlib, and Scapy for network & repo analysis, with visualizations via Seaborn and Wireshark.  
   ⏩ [GitHub Repo](https://github.com)
+
 
 
 ### 🧰 Tech Stack & Tools

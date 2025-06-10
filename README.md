@@ -21,7 +21,7 @@
 - 🔭 I’m currently working on **Streamify** – a smart video streaming app with sentiment analysis and engagement graphs  
 - 🧠 Exploring **GraphQL**, **Docker**, and **Kubernetes**  
 - 🎓 Master’s in Computer Science @ UMass Dartmouth  
-- 💬 Ask me about **.NET, React, MongoDB, Azure, AWS**  
+- 💬 Ask me about **.NET, Python, React, MongoDB, Azure, AWS**  
 - 📫 Reach me: `pathakshishir123@gmail.com`  
 - ⚡ Fun fact: I’m building a YouTube-style engagement graph for my app!
 

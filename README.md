@@ -28,6 +28,13 @@ Passionate about building **scalable systems**, crafting **clean & cloud-native 
 
 ## 🏆 Featured Projects
 
+### 🔹 **QuestionBuilderAI — Image-to-Question Paper Generator**
+AI-powered tool that extracts text/questions from uploaded images using OCR, parses structure intelligently, and auto-generates clean, formatted question papers (Class + Subject based output).  
+**Tech:** React, Node.js, Express, Tesseract OCR / OCR Space API, AWS S3, Python (parsing), Swagger, Docker  
+🔗 **GitHub Repo:** https://github.com/ShishirPathak/QuestionBuilderAI  
+
+---
+
 ### 🔹 **Streamify — Smart Video Streaming with Engagement Analytics**
 Full-stack streaming platform with sentiment detection, rewatch heatmaps, drop-off tracking, skip logs, and secure uploads.  
 **Tech:** React, Node.js, MongoDB, Redis, AWS S3, Firebase, Docker, EC2  
@@ -52,19 +59,6 @@ Processes 100+ daily student schedule queries via **Google Gemini AI**, supporti
 ### 🔹 **Olympic Games Data Visualization (D3.js)**
 Interactive dashboards showing medal trends, athlete stats & country performance.  
 🔗 https://data-visualization-final-project.vercel.app  
-
----
-
-### 🔹 **Network Analyzer**
-Full-stack tool to visualize network traffic, packet flows & performance metrics.  
-**Tech:** React, Tailwind, Express.js  
-🔗 GitHub Repo  
-
----
-
-### 🔹 **GitHub Repo Cloner + Network Insights**
-Python utility with Pandas, Matplotlib, Scapy & Wireshark integration.  
-🔗 GitHub Repo  
 
 ---
 

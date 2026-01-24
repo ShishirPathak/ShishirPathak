@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#38BDF8;">Shishir Pathak</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#38BDF8;">Shishir Kumar Pathak</span></h1>
 <h3 align="center">Software Engineer • Full Stack Developer • AI & Cloud Enthusiast</h3>
 
 <p align="center">

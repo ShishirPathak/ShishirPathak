@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#38BDF8;">Shishir Kumar Pathak</span></h1>
-<h3 align="center">Software Engineer • Full Stack Developer • AI & Cloud Enthusiast</h3>
+<h3 align="center">Software Engineer • Full-Stack Developer • AI & Cloud Systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShishirPathak&style=flat-square&color=blue" alt="Profile views" />
@@ -14,51 +14,74 @@
 
 ---
 
-## 🚀 About Me  
-Passionate about building **scalable systems**, crafting **clean & cloud-native apps**, and integrating **AI-driven user experiences**.
+## 🚀 About Me
+I build **scalable systems**, **cloud-native applications**, and **AI-assisted workflows** with a strong focus on correctness, performance, and real-world constraints.
 
-- 🔭 Currently building **Streamify – AI-powered Video Streaming Platform**
-- 🌱 Exploring **GraphQL • Kubernetes • Distributed Systems**
+- 🔭 Currently building **Streamify — AI-powered Video Streaming & Analytics Platform**
+- 🌱 Exploring **Distributed Systems • Kubernetes • GraphQL**
 - 🧠 Working with **.NET | Python | React | MongoDB | Azure | AWS**
 - 👨‍🎓 Master’s in Computer Science — *UMass Dartmouth*
+- ⚡ Side focus: Designing **LLM-assisted pipelines that produce deterministic outputs**
 - 📬 Email: **pathakshishir123@gmail.com**
-- ⚡ Fun side: Building a custom **YouTube-style engagement heatmap engine**
+
+---
+
+## 🧪 Hackathon
+
+### 🏅 Fuchs Intelligent Data Discovery Hackathon — 2024  
+*University of Massachusetts Dartmouth*
+
+Built an **AI-assisted data processing pipeline** to convert noisy, heterogeneous experimental data into clean, submission-ready datasets.
+
+**What we engineered:**
+- Parsed experimental inputs from **multiple inconsistent file formats**
+- Chunked and cleaned content to stay within **LLM context limits**
+- Prompted **GPT-4** to extract structured **JSON outputs**
+- Normalized results using **CSV-based lookup dictionaries**
+- Generated a final **validated CSV** for downstream scientific workflows
+
+**Tech:** Python, GPT-4, LLM prompting, data pipelines, CSV normalization
 
 ---
 
 ## 🏆 Featured Projects
 
 ### 🔹 **QuestionBuilderAI — Image-to-Question Paper Generator**
-AI-powered tool that extracts text/questions from uploaded images using OCR, parses structure intelligently, and auto-generates clean, formatted question papers (Class + Subject based output).  
-**Tech:** React, Node.js, Express, Tesseract OCR / OCR Space API, AWS S3, Python (parsing), Swagger, Docker  
-🔗 **GitHub Repo:** https://github.com/ShishirPathak/QuestionBuilderAI  
+AI-powered tool that extracts content from uploaded images, understands structure, and generates clean, formatted question papers.
+
+**Tech:** React, Node.js, Express, Python, OCR (Tesseract / OCR Space), AWS S3, Docker  
+🔗 **Repo:** https://github.com/ShishirPathak/QuestionBuilderAI
 
 ---
 
 ### 🔹 **Streamify — Smart Video Streaming with Engagement Analytics**
-Full-stack streaming platform with sentiment detection, rewatch heatmaps, drop-off tracking, skip logs, and secure uploads.  
+Full-stack streaming platform with rewatch heatmaps, drop-off tracking, sentiment signals, and secure uploads.
+
 **Tech:** React, Node.js, MongoDB, Redis, AWS S3, Firebase, Docker, EC2  
-🔗 **Repo:** https://github.com/ShishirPathak/Streamify  
+🔗 **Repo:** https://github.com/ShishirPathak/Streamify
 
 ---
 
-### 🔹 **NLP SMS Spam Classifier — ML Model Evaluation**
-Built NLP-driven models using TF-IDF, feature engineering & SMOTE for class imbalance, achieving high recall.  
-**Tech:** Python, Scikit-learn, Pandas, NLP  
-🔗 **Repo:** https://github.com/ShishirPathak/nlp-sms-spam-classifier  
+### 🔹 **NLP SMS Spam Classifier**
+Evaluated NLP models using TF-IDF, feature engineering, and SMOTE to handle class imbalance and improve recall.
+
+**Tech:** Python, Scikit-learn, Pandas  
+🔗 **Repo:** https://github.com/ShishirPathak/nlp-sms-spam-classifier
 
 ---
 
 ### 🔹 **UMassD Schedule Assistant (AI-powered)**
-Processes 100+ daily student schedule queries via **Google Gemini AI**, supporting voice + text.  
-**Tech:** React + TypeScript + Gemini API  
-🔗 **Live Demo:** https://umassd-class-clock.vercel.app  
+AI assistant handling 100+ daily student schedule queries via text and voice.
+
+**Tech:** React, TypeScript, Google Gemini API  
+🔗 **Live:** https://umassd-class-clock.vercel.app
 
 ---
 
-### 🔹 **Olympic Games Data Visualization (D3.js)**
-Interactive dashboards showing medal trends, athlete stats & country performance.  
-🔗 https://data-visualization-final-project.vercel.app  
+### 🔹 **Olympic Games Data Visualization**
+Interactive dashboards visualizing medal trends, athlete stats, and country-level performance.
+
+🔗 https://data-visualization-final-project.vercel.app
 
 ---
 
@@ -72,24 +95,21 @@ Interactive dashboards showing medal trends, athlete stats & country performance
 
 ## 📊 GitHub Analytics
 
-### ⭐ GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShishirPathak&show_icons=true&theme=tokyonight" />
 </p>
 
-### 🔥 Streaks  
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ShishirPathak&theme=tokyonight" />
 </p>
 
-### 🌍 Most Used Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShishirPathak&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔗 Portfolio  
+## 🔗 Portfolio
 <p align="center">
   <a href="https://shishir-kumar-pathak.vercel.app/">
     <img src="https://img.shields.io/badge/Visit-My%20Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -98,7 +118,7 @@ Interactive dashboards showing medal trends, athlete stats & country performance
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/shishirkrpathak" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40px"/>
@@ -108,5 +128,3 @@ Interactive dashboards showing medal trends, athlete stats & country performance
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40px" />
   </a>
 </p>
-
----

@@ -1,130 +1,130 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#38BDF8;">Shishir Kumar Pathak</span></h1>
-<h3 align="center">Software Engineer • Full-Stack Developer • AI & Cloud Systems</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShishirPathak&style=flat-square&color=blue" alt="Profile views" />
-</p>
+<h1 align="center">Hi, I'm Shishir Kumar Pathak</h1>
+<h3 align="center">Software Engineer focused on AI-backed systems, scalable backends, and real-world constraints</h3>
 
 ---
 
-## 🧠 Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+## 🧠 About Me
+
+I design and build **backend systems and AI-assisted pipelines** where correctness, safety, and real-world constraints matter more than hype.
+
+My work focuses on:
+- integrating LLMs into production systems without making them a single point of failure  
+- combining deterministic logic with probabilistic models  
+- building scalable services with clear decision boundaries and observability  
+
+I’m particularly interested in systems where **wrong decisions are costly** — and how to design around that.
 
 ---
 
-## 🚀 About Me
-I build **scalable systems**, **cloud-native applications**, and **AI-assisted workflows** with a strong focus on correctness, performance, and real-world constraints.
+## 🚀 Selected Work
 
-- 🔭 Currently building **Streamify — AI-powered Video Streaming & Analytics Platform**
-- 🌱 Exploring **Distributed Systems • Kubernetes • GraphQL**
-- 🧠 Working with **.NET | Python | React | MongoDB | Azure | AWS**
-- 👨‍🎓 Master’s in Computer Science — *UMass Dartmouth*
-- ⚡ Side focus: Designing **LLM-assisted pipelines that produce deterministic outputs**
-- 📬 Email: **pathakshishir123@gmail.com**
+### 🔹 Gmail Cleanup AI — Safety-First Email Decision System
 
----
+A Gmail triage system designed to **avoid blindly trusting AI** for destructive actions.
 
-## 🧪 Hackathon
+#### Problem
+Most AI-powered automation assumes the model is reliable enough to act.  
+In email systems, a wrong decision (OTP, banking, interview, invoices) leads to a **loss of trust**.
 
-### 🏅 Fuchs Intelligent Data Discovery Hackathon — 2024  
-*University of Massachusetts Dartmouth*
+#### Approach
+Designed a multi-layer decision pipeline instead of relying on a single model:
 
-Built an **AI-assisted data processing pipeline** to convert noisy, heterogeneous experimental data into clean, submission-ready datasets.
+- Rule-based classification to protect high-risk emails  
+- Vector similarity (`pgvector`) to leverage historical patterns  
+- LLM fallback only for low-confidence cases  
+- Guardrails to prevent unsafe actions  
+- Human-in-the-loop review before execution  
 
-**What we engineered:**
-- Parsed experimental inputs from **multiple inconsistent file formats**
-- Chunked and cleaned content to stay within **LLM context limits**
-- Prompted **GPT-4** to extract structured **JSON outputs**
-- Normalized results using **CSV-based lookup dictionaries**
-- Generated a final **validated CSV** for downstream scientific workflows
+#### Key Trade-offs
+- Chose **safety over full automation** → reduced risk but added review friction  
+- Limited LLM usage → lower cost and more predictable behavior  
+- Accepted partial automation instead of maximizing recall  
 
-**Tech:** Python, GPT-4, LLM prompting, data pipelines, CSV normalization
+#### System Design
+- FastAPI backend with modular service layer  
+- PostgreSQL + `pgvector` for similarity search  
+- Redis for caching and performance  
+- Google OAuth + Gmail API integration  
+- React frontend for review-first workflow  
 
----
-
-## 🏆 Featured Projects
-
-### 🔹 **QuestionBuilderAI — Image-to-Question Paper Generator**
-AI-powered tool that extracts content from uploaded images, understands structure, and generates clean, formatted question papers.
-
-**Tech:** React, Node.js, Express, Python, OCR (Tesseract / OCR Space), AWS S3, Docker  
-🔗 **Repo:** https://github.com/ShishirPathak/QuestionBuilderAI
+🔗 Repo: https://github.com/ShishirPathak/gmail-cleanup-ai
 
 ---
 
-### 🔹 **Streamify — Smart Video Streaming with Engagement Analytics**
-Full-stack streaming platform with rewatch heatmaps, drop-off tracking, sentiment signals, and secure uploads.
+### 🔹 QuestionBuilderAI — OCR + LLM Document Pipeline
 
-**Tech:** React, Node.js, MongoDB, Redis, AWS S3, Firebase, Docker, EC2  
-🔗 **Repo:** https://github.com/ShishirPathak/Streamify
+Built an OCR + LLM pipeline to convert **unstructured handwritten or scanned content into structured question papers**.
 
----
+#### Highlights
+- Extracted text using OCR (Tesseract / OCR APIs)  
+- Structured content using LLM prompting  
+- Handled noisy inputs and layout inconsistencies  
+- Generated clean, formatted outputs for downstream usage  
 
-### 🔹 **NLP SMS Spam Classifier**
-Evaluated NLP models using TF-IDF, feature engineering, and SMOTE to handle class imbalance and improve recall.
+#### Key Insight
+LLMs are effective when paired with **pre-processing and validation layers**, not used in isolation.
 
-**Tech:** Python, Scikit-learn, Pandas  
-🔗 **Repo:** https://github.com/ShishirPathak/nlp-sms-spam-classifier
-
----
-
-### 🔹 **UMassD Schedule Assistant (AI-powered)**
-AI assistant handling 100+ daily student schedule queries via text and voice.
-
-**Tech:** React, TypeScript, Google Gemini API  
-🔗 **Live:** https://umassd-class-clock.vercel.app
+🔗 Repo: https://github.com/ShishirPathak/QuestionBuilderAI
 
 ---
 
-### 🔹 **Olympic Games Data Visualization**
-Interactive dashboards visualizing medal trends, athlete stats, and country-level performance.
+### 🔹 Streamify — Video Platform with Behavioral Analytics
 
-🔗 https://data-visualization-final-project.vercel.app
+A full-stack streaming system with **user engagement analytics**.
 
----
+#### Highlights
+- Built scalable upload and streaming pipeline  
+- Implemented engagement tracking (rewatch, drop-off)  
+- Used Redis for caching and performance optimization  
+- Designed backend APIs for real-time interaction data  
 
-## 🧰 Tech Stack & Tools
+#### Focus
+Understanding **user behavior through system-generated signals**, not just raw data.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,react,ts,js,nodejs,py,java,mongodb,mysql,azure,aws,docker,kubernetes,redis,git,github,vscode,postman" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShishirPathak&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ShishirPathak&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShishirPathak&layout=compact&theme=tokyonight" />
-</p>
+🔗 Repo: https://github.com/ShishirPathak/Streamify
 
 ---
 
-## 🔗 Portfolio
-<p align="center">
-  <a href="https://shishir-kumar-pathak.vercel.app/">
-    <img src="https://img.shields.io/badge/Visit-My%20Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+### 🔹 UMassD Schedule Assistant — AI-Powered Query System
+
+AI assistant handling student scheduling queries via text and voice.
+
+#### Highlights
+- Integrated LLM for natural language queries  
+- Designed API layer for structured responses  
+- Handled 100+ daily queries  
+
+#### Focus
+Building **LLM-backed interfaces with controlled outputs**.
+
+🔗 Live: https://umassd-class-clock.vercel.app
 
 ---
 
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/shishirkrpathak" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40px"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:pathakshishir123@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40px" />
-  </a>
-</p>
+## 🧠 Engineering Focus
+
+I’m particularly interested in:
+
+- Designing systems where AI is **assisted, not blindly trusted**  
+- Combining retrieval, rules, and LLMs into reliable pipelines  
+- Building observable systems with clear decision boundaries  
+- Trade-offs between automation, safety, and cost in AI workflows  
+
+---
+
+## 🧰 Tech Stack
+
+**Languages:** C#, Python, JavaScript, TypeScript  
+**Backend:** .NET, FastAPI, Node.js  
+**Frontend:** React  
+**Databases:** PostgreSQL, MongoDB, Redis  
+**Cloud & Tools:** Azure, AWS, Docker, Kubernetes  
+**AI/ML:** LLM APIs, OCR pipelines, embeddings, vector search  
+
+---
+
+## 📫 Connect
+
+- LinkedIn: https://linkedin.com/in/shishirkrpathak  
+- Portfolio: https://shishir-kumar-pathak.vercel.app  
+- Email: pathakshishir123@gmail.com

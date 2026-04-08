@@ -3,7 +3,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I design and build **backend systems and AI-assisted pipelines** where correctness, safety, and real-world constraints matter more than hype.
 
@@ -16,7 +16,7 @@ I’m particularly interested in systems where **wrong decisions are costly** �
 
 ---
 
-## 🚀 Selected Work
+## Selected Work
 
 ### 🔹 Gmail Cleanup AI — Safety-First Email Decision System
 
